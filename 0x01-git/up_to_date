@@ -1,5 +1,6 @@
 cd /alx-pre_course/0x01-git
 touch up_to_date
+git pull origin main
 git add up_to_date
 git commit -m "How to be up to date in git"
-git push 
+git push origin main
